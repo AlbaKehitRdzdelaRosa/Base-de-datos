@@ -1,0 +1,78 @@
+2019-02-28 13:24:58 5688 [Note] Plugin 'FEDERATED' is disabled.
+2019-02-28 13:24:58 5688 [Note] InnoDB: Using atomics to ref count buffer pool pages
+2019-02-28 13:24:58 5688 [Note] InnoDB: The InnoDB memory heap is disabled
+2019-02-28 13:24:58 5688 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2019-02-28 13:24:58 5688 [Note] InnoDB: Memory barrier is not used
+2019-02-28 13:24:58 5688 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2019-02-28 13:24:58 5688 [Note] InnoDB: Not using CPU crc32 instructions
+2019-02-28 13:24:58 5688 [Note] InnoDB: Initializing buffer pool, size = 128.0M
+2019-02-28 13:24:58 5688 [Note] InnoDB: Completed initialization of buffer pool
+2019-02-28 13:24:58 5688 [Note] InnoDB: Highest supported file format is Barracuda.
+2019-02-28 13:24:58 5688 [Note] InnoDB: The log sequence numbers 2282964 and 2282964 in ibdata files do not match the log sequence number 4062296 in the ib_logfiles!
+2019-02-28 13:24:58 5688 [Note] InnoDB: Database was not shutdown normally!
+2019-02-28 13:24:58 5688 [Note] InnoDB: Starting crash recovery.
+2019-02-28 13:24:58 5688 [Note] InnoDB: Reading tablespace information from the .ibd files...
+2019-02-28 13:25:00 5688 [Note] InnoDB: Restoring possible half-written data pages 
+2019-02-28 13:25:00 5688 [Note] InnoDB: from the doublewrite buffer...
+2019-02-28 13:25:01 5688 [Note] InnoDB: 128 rollback segment(s) are active.
+2019-02-28 13:25:01 5688 [Note] InnoDB: Waiting for purge to start
+2019-02-28 13:25:01 5688 [Note] InnoDB: 5.6.34 started; log sequence number 4062296
+2019-02-28 13:25:01 5688 [Note] Server hostname (bind-address): '*'; port: 3306
+2019-02-28 13:25:01 5688 [Note] IPv6 is available.
+2019-02-28 13:25:01 5688 [Note]   - '::' resolves to '::';
+2019-02-28 13:25:01 5688 [Note] Server socket created on IP: '::'.
+2019-02-28 13:25:02 5688 [Note] Event Scheduler: Loaded 0 events
+2019-02-28 13:25:02 5688 [Note] K:\usbwebserver/mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.6.34'  socket: ''  port: 3306  MySQL Community Server (GPL)
+2019-02-28 13:26:24 1964 [Note] Plugin 'FEDERATED' is disabled.
+2019-02-28 13:26:24 1964 [Note] InnoDB: Using atomics to ref count buffer pool pages
+2019-02-28 13:26:24 1964 [Note] InnoDB: The InnoDB memory heap is disabled
+2019-02-28 13:26:24 1964 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2019-02-28 13:26:24 1964 [Note] InnoDB: Memory barrier is not used
+2019-02-28 13:26:24 1964 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2019-02-28 13:26:24 1964 [Note] InnoDB: Not using CPU crc32 instructions
+2019-02-28 13:26:24 1964 [Note] InnoDB: Initializing buffer pool, size = 128.0M
+2019-02-28 13:26:24 1964 [Note] InnoDB: Completed initialization of buffer pool
+2019-02-28 13:26:24 1964 [Note] InnoDB: Highest supported file format is Barracuda.
+2019-02-28 13:26:24 1964 [Note] InnoDB: The log sequence numbers 2282964 and 2282964 in ibdata files do not match the log sequence number 4062306 in the ib_logfiles!
+2019-02-28 13:26:24 1964 [Note] InnoDB: Database was not shutdown normally!
+2019-02-28 13:26:24 1964 [Note] InnoDB: Starting crash recovery.
+2019-02-28 13:26:24 1964 [Note] InnoDB: Reading tablespace information from the .ibd files...
+2019-02-28 13:26:24 1964 [Note] InnoDB: Restoring possible half-written data pages 
+2019-02-28 13:26:24 1964 [Note] InnoDB: from the doublewrite buffer...
+2019-02-28 13:26:25 1964 [Note] InnoDB: 128 rollback segment(s) are active.
+2019-02-28 13:26:25 1964 [Note] InnoDB: Waiting for purge to start
+2019-02-28 13:26:25 1964 [Note] InnoDB: 5.6.34 started; log sequence number 4062306
+2019-02-28 13:26:25 1964 [Note] Server hostname (bind-address): '*'; port: 3306
+2019-02-28 13:26:25 1964 [Note] IPv6 is available.
+2019-02-28 13:26:25 1964 [Note]   - '::' resolves to '::';
+2019-02-28 13:26:25 1964 [Note] Server socket created on IP: '::'.
+2019-02-28 13:26:26 1964 [Note] Event Scheduler: Loaded 0 events
+2019-02-28 13:26:26 1964 [Note] K:\usbwebserver/mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.6.34'  socket: ''  port: 3306  MySQL Community Server (GPL)
+2019-02-28 13:27:41 3208 [Note] Plugin 'FEDERATED' is disabled.
+2019-02-28 13:27:41 3208 [Note] InnoDB: Using atomics to ref count buffer pool pages
+2019-02-28 13:27:41 3208 [Note] InnoDB: The InnoDB memory heap is disabled
+2019-02-28 13:27:41 3208 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2019-02-28 13:27:41 3208 [Note] InnoDB: Memory barrier is not used
+2019-02-28 13:27:41 3208 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2019-02-28 13:27:41 3208 [Note] InnoDB: Not using CPU crc32 instructions
+2019-02-28 13:27:41 3208 [Note] InnoDB: Initializing buffer pool, size = 128.0M
+2019-02-28 13:27:41 3208 [Note] InnoDB: Completed initialization of buffer pool
+2019-02-28 13:27:41 3208 [Note] InnoDB: Highest supported file format is Barracuda.
+2019-02-28 13:27:41 3208 [Note] InnoDB: The log sequence numbers 2282964 and 2282964 in ibdata files do not match the log sequence number 4062316 in the ib_logfiles!
+2019-02-28 13:27:41 3208 [Note] InnoDB: Database was not shutdown normally!
+2019-02-28 13:27:41 3208 [Note] InnoDB: Starting crash recovery.
+2019-02-28 13:27:41 3208 [Note] InnoDB: Reading tablespace information from the .ibd files...
+2019-02-28 13:27:41 3208 [Note] InnoDB: Restoring possible half-written data pages 
+2019-02-28 13:27:41 3208 [Note] InnoDB: from the doublewrite buffer...
+2019-02-28 13:27:42 3208 [Note] InnoDB: 128 rollback segment(s) are active.
+2019-02-28 13:27:42 3208 [Note] InnoDB: Waiting for purge to start
+2019-02-28 13:27:42 3208 [Note] InnoDB: 5.6.34 started; log sequence number 4062316
+2019-02-28 13:27:42 3208 [Note] Server hostname (bind-address): '*'; port: 3306
+2019-02-28 13:27:42 3208 [Note] IPv6 is available.
+2019-02-28 13:27:42 3208 [Note]   - '::' resolves to '::';
+2019-02-28 13:27:42 3208 [Note] Server socket created on IP: '::'.
+2019-02-28 13:27:43 3208 [Note] Event Scheduler: Loaded 0 events
+2019-02-28 13:27:43 3208 [Note] K:\usbwebserver/mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.6.34'  socket: ''  port: 3306  MySQL Community Server (GPL)
